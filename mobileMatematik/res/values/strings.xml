@@ -4,5 +4,10 @@
     <string name="app_name">mobileMatematik</string>
     <string name="hello_world">Hello world!</string>
     <string name="menu_settings">Settings</string>
+    <string name="button_sum">Toplama</string>
+    <string name="button_minus">Cıkarma</string>
+    <string name="button_multiply">Çarpma</string>
+    <string name="button_divide">Bölme</string>
+    
 
 </resources>
