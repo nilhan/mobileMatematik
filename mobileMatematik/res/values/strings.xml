@@ -8,6 +8,7 @@
     <string name="button_minus">Cıkarma</string>
     <string name="button_multiply">Çarpma</string>
     <string name="button_divide">Bölme</string>
+    <string name="edit_message">İşlem Tipi</string>
     
 
 </resources>
